@@ -2,10 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a11aa652-8a37-4f97-ae6b-49c68c554634" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/面试题7_用两个栈实现队列/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/面试题7_用两个栈实现队列/Solution3Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/面试题6_重建二叉树/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/面试题6_重建二叉树/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/数据结构/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/数据结构/TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/面试题3_二维数组中的查找/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/面试题4_替换空格/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/面试题4_替换空格/Solution2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/面试题5_从尾到头打印链表/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/面试题5_从尾到头打印链表/Solution2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/面试题5_从尾到头打印链表/Solution3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/面试题6_重建二叉树/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/面试题6_重建二叉树/Solution2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/面试题7_用两个栈实现队列/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/面试题7_用两个栈实现队列/Solution2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/面试题7_用两个栈实现队列/Solution3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/面试题5_从尾到头打印链表/Solution3Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/面试题6_重建二叉树/SolutionTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/面试题7_用两个栈实现队列/Solution3Test.class" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +65,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Auto_Print" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -61,6 +75,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="面试题7_用两个栈实现队列" />
       <recent name="面试题5_从尾到头打印链表" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
@@ -197,7 +212,7 @@
       <workItem from="1573375687444" duration="269000" />
       <workItem from="1573483562133" duration="1456000" />
       <workItem from="1573485296313" duration="4727000" />
-      <workItem from="1573519314143" duration="4609000" />
+      <workItem from="1573519314143" duration="7120000" />
     </task>
     <servers />
   </component>
