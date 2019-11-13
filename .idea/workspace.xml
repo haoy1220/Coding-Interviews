@@ -2,24 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a11aa652-8a37-4f97-ae6b-49c68c554634" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/面试题8_旋转数组的最小数字/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/面试题8_旋转数组的最小数字/Solution2Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/数据结构/ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/数据结构/TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/面试题3_二维数组中的查找/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/面试题4_替换空格/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/面试题4_替换空格/Solution2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/面试题5_从尾到头打印链表/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/面试题5_从尾到头打印链表/Solution2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/面试题5_从尾到头打印链表/Solution3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/面试题6_重建二叉树/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/面试题6_重建二叉树/Solution2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/面试题7_用两个栈实现队列/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/面试题7_用两个栈实现队列/Solution2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/面试题7_用两个栈实现队列/Solution3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/面试题5_从尾到头打印链表/Solution3Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/面试题6_重建二叉树/SolutionTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/面试题7_用两个栈实现队列/Solution3Test.class" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -68,6 +54,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Auto_Print" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -75,6 +62,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="面试题8_旋转数组的最小数字" />
       <recent name="面试题7_用两个栈实现队列" />
       <recent name="面试题5_从尾到头打印链表" />
     </key>
@@ -97,13 +85,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution3Test">
-    <configuration name="Solution3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="面试题5_从尾到头打印链表.Solution3" />
+  <component name="RunManager" selected="Application.Solution2Test">
+    <configuration name="Solution2Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="面试题8_旋转数组的最小数字.Solution2Test" />
       <module name="Coding-Interviews-Test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="面试题5_从尾到头打印链表.*" />
+          <option name="PATTERN" value="面试题8_旋转数组的最小数字.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -185,11 +173,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution2Test" />
         <item itemvalue="Application.Solution3Test" />
         <item itemvalue="JUnit.SolutionTest.reConstructBinaryTree" />
         <item itemvalue="JUnit.Solution3Test.printListFromTailToHead" />
         <item itemvalue="JUnit.solution3Test.printListFromTailToHead" />
-        <item itemvalue="Application.Solution3" />
       </list>
     </recent_temporary>
   </component>
@@ -213,6 +201,8 @@
       <workItem from="1573483562133" duration="1456000" />
       <workItem from="1573485296313" duration="4727000" />
       <workItem from="1573519314143" duration="7120000" />
+      <workItem from="1573543429650" duration="49000" />
+      <workItem from="1573613964822" duration="3450000" />
     </task>
     <servers />
   </component>
@@ -265,7 +255,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
