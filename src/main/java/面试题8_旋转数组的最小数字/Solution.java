@@ -50,20 +50,20 @@ class Solution2 {
             }
             int mid = (end + start) / 2;
             if (array[mid] == array[start] && array[mid] == array[end]) {
-                return Find(array,start,end);
+                return Find(array, start, end);
             } else if (array[mid] <= array[end]) {
                 end = mid;
-            }else if (array[mid]>=array[start]){
+            } else if (array[mid] >= array[start]) {
                 start = mid;
             }
         }
         return array[end];
     }
 
-    public static int Find(int[] array,int start,int end){
+    public static int Find(int[] array, int start, int end) {
         int result = array[start];
-        for (int i = start+1; i < end; i++) {
-            if (result > array[i]){
+        for (int i = start + 1; i < end; i++) {
+            if (result > array[i]) {
                 result = array[i];
                 break;
             }
