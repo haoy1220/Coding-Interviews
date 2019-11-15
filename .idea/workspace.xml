@@ -2,31 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a11aa652-8a37-4f97-ae6b-49c68c554634" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/数据结构/ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/数据结构/TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/面试题3_二维数组中的查找/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/面试题4_替换空格/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/面试题4_替换空格/Solution2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/面试题5_从尾到头打印链表/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/面试题5_从尾到头打印链表/Solution2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/面试题5_从尾到头打印链表/Solution3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/面试题6_重建二叉树/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/面试题6_重建二叉树/Solution2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/面试题7_用两个栈实现队列/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/面试题7_用两个栈实现队列/Solution2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/面试题7_用两个栈实现队列/Solution3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/面试题8_旋转数组的最小数字/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/面试题8_旋转数组的最小数字/Solution2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/面试题9_斐波那契数列/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/面试题9_斐波那契数列/Solution2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/面试题9_斐波那契数列/Solution3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/面试题9_斐波那契数列/Solution4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/面试题9_斐波那契数列/Solution5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/面试题5_从尾到头打印链表/Solution3Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/面试题6_重建二叉树/SolutionTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/面试题7_用两个栈实现队列/Solution3Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/面试题8_旋转数组的最小数字/Solution2Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/面试题10_二进制中1的个数/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/面试题10_二进制中1的个数/Solution.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -84,8 +60,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/面试题10_二进制中1的个数/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="457">
-              <caret line="58" column="75" selection-start-line="58" selection-start-column="75" selection-end-line="58" selection-end-column="75" />
+            <state relative-caret-position="485">
+              <caret line="59" column="44" selection-start-line="59" selection-start-column="44" selection-end-line="59" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -171,7 +147,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-10" />
     <option name="y" value="-10" />
     <option name="width" value="1540" />
@@ -417,7 +393,7 @@
       <workItem from="1573613964822" duration="3450000" />
       <workItem from="1573627160684" duration="17000" />
       <workItem from="1573700685282" duration="3569000" />
-      <workItem from="1573804313946" duration="7713000" />
+      <workItem from="1573804313946" duration="7906000" />
     </task>
     <servers />
   </component>
@@ -454,7 +430,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9600000" />
+    <option name="totallyTimeSpent" value="9793000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -648,8 +624,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/面试题10_二进制中1的个数/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="457">
-          <caret line="58" column="75" selection-start-line="58" selection-start-column="75" selection-end-line="58" selection-end-column="75" />
+        <state relative-caret-position="485">
+          <caret line="59" column="44" selection-start-line="59" selection-start-column="44" selection-end-line="59" selection-end-column="44" />
         </state>
       </provider>
     </entry>
