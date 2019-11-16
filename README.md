@@ -20,3 +20,5 @@
 
 [面试题10_二进制中1的个数](./src/main/java/面试题10_二进制中1的个数/Solution.java)
 
+[面试题11_数值的整数次方](./src/main/java/面试题11_数值的整数次方/Solution.java)
+
