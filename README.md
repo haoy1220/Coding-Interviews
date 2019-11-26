@@ -22,3 +22,5 @@
 
 [面试题11_数值的整数次方](./src/main/java/面试题11_数值的整数次方/Solution.java)
 
+[面试题12_打印1到最大的n位数](./src/main/java/面试题12_打印1到最大的n位数/Solution.java)
+
