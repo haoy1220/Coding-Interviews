@@ -21,8 +21,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="457">
-                <caret line="46" column="15" selection-start-line="46" selection-start-column="1" selection-end-line="46" selection-end-column="15" />
+              <first_editor relative-caret-position="177">
+                <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
               </first_editor>
               <second_editor />
             </state>
@@ -30,10 +30,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/面试题12_矩阵中的路径/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="196">
+              <caret line="7" column="2" lean-forward="true" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/面试题8_二叉树的下一个节点/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="392">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="140">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -43,10 +52,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="280">
               <caret line="10" column="46" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
-              <folding>
-                <element signature="e#222#223#0" expanded="true" />
-                <element signature="e#252#253#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -100,6 +105,7 @@
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/main/java/数据结构/TreeLinkNode.java" />
         <option value="$PROJECT_DIR$/src/main/java/面试题8_二叉树的下一个节点/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/面试题12_矩阵中的路径/Solution.java" />
       </list>
     </option>
   </component>
@@ -149,8 +155,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="416" />
-    <option name="y" value="-19" />
+    <option name="x" value="415" />
+    <option name="y" value="-20" />
     <option name="width" value="960" />
     <option name="height" value="1040" />
   </component>
@@ -163,6 +169,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -188,12 +196,18 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Coding-Interviews" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Coding-Interviews" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="面试题8_二叉树的下一个节点" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -379,6 +393,7 @@
       <workItem from="1575468313204" duration="256000" />
       <workItem from="1575468876700" duration="5082000" />
       <workItem from="1575551397589" duration="4627000" />
+      <workItem from="1575639039165" duration="4038000" />
     </task>
     <servers />
   </component>
@@ -415,7 +430,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11233000" />
+    <option name="totallyTimeSpent" value="15271000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -429,7 +444,7 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22386059" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.46715817" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="JRebel" order="3" side_tool="true" />
@@ -453,6 +468,7 @@
       <window_info anchor="bottom" id="Version Control" order="13" />
       <window_info anchor="bottom" id="JRebel Executor" order="14" />
       <window_info anchor="bottom" id="JRebel Console" order="15" side_tool="true" />
+      <window_info anchor="right" id="PlantUML" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -630,6 +646,13 @@
         <state relative-caret-position="-3612" />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/数据结构/TreeLinkNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="10" column="46" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/面试题4_二维数组中的查找/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="588">
@@ -647,29 +670,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/数据结构/TreeLinkNode.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/面试题8_二叉树的下一个节点/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="10" column="46" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
-          <folding>
-            <element signature="e#222#223#0" expanded="true" />
-            <element signature="e#252#253#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="140">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/面试题8_二叉树的下一个节点/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/面试题12_矩阵中的路径/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="392">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="196">
+          <caret line="7" column="2" lean-forward="true" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="457">
-            <caret line="46" column="15" selection-start-line="46" selection-start-column="1" selection-end-line="46" selection-end-column="15" />
+          <first_editor relative-caret-position="177">
+            <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
           </first_editor>
           <second_editor />
         </state>
