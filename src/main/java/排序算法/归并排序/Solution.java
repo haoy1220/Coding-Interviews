@@ -12,67 +12,59 @@ package 排序算法.归并排序;
  *      开始合并（这里合并其实都是合并到原数组，只有拆分的时候才开辟了新的空间）。
  */
 public class Solution {
-    public void mergeSort(int[] nums) {
-        if (nums.length == 0) return;
-        splitAndMerge(nums, 0, nums.length - 1);
+    public void mergeSort(int[] arrays) {
+        if (arrays.length == 0) return;
+        _mergeSort(arrays, 0, arrays.length - 1);
     }
 
-    public void splitAndMerge(int[] nums, int begin, int end) {
-        int mid = (begin + end) / 2;
-
-        //将数组不断拆分成左右两个部分
-        splitAndMerge(nums, begin, mid);
-        splitAndMerge(nums, mid + 1, end);
-
-        //最后合并处理
-        merge(nums, begin, mid + 1, end);
-
-    }
-
-    public void merge(int[] nums, int begin, int midAdd1, int end) {
-        //定义一个左边的数组
-        int[] leftnums = new int[midAdd1 - begin];
-
-        //定义一个右边的数组
-        int[] rightnums = new int[end - midAdd1 + 1];
-
-        //填充数据
-        for (int i = begin; i < midAdd1; i++) {
-            leftnums[i - begin] = nums[i];
+    private void _mergeSort(int[] arrays, int start, int end) {
+        //只有一个元素就不用再分了
+        if (start == end) {
+            return;
+        } else {
+            int mid = (start + end) / 2;
+            _mergeSort(arrays, start, mid);
+            _mergeSort(arrays, mid + 1, end);
+            //开始合并
+            merge(arrays, start, mid, end);
         }
-        for (int i = midAdd1; i <= end; i++) {
-            rightnums[i - midAdd1] = nums[i];
+    }
+
+    private void merge(int[] arrays, int start, int mid, int end) {
+        //创建两个数组
+        int[] left = new int[mid - start + 1];
+        int[] right = new int[end - mid];
+
+
+        //给两个数组填充数据
+        for (int i = start; i <= mid; i++) {
+            left[i - start] = arrays[i];
+        }
+        for (int i = mid + 1; i <= end; i++) {
+            right[i - mid - 1] = arrays[i];
         }
 
         int i = 0;
         int j = 0;
-        int k = begin;
+        int k = start;
 
-        //比较两个数组的元素大小，小的先填充到原数组中
-        while (i < leftnums.length && j < rightnums.length) {
-            if (leftnums[i] < rightnums[j]) {
-                nums[k] = leftnums[i];
-                i++;
-                k++;
+        //两个数组从头开始比大小，填充到原数组上
+        while (i < left.length && j < right.length) {
+            if (left[i] < right[j]) {
+                arrays[k++] = left[i++];
             } else {
-                nums[k] = rightnums[j];
-                j++;
-                k++;
+                arrays[k++] = right[j++];
             }
         }
 
-        //右边的填充完了，将左边的全部填入(已经排好序了)
-        while (i < leftnums.length) {
-            nums[k] = leftnums[i];
-            i++;
-            k++;
+        //右边的用完了，左边的满上
+        while (i < left.length) {
+            arrays[k++] = left[i++];
         }
 
-        //左边的填充完了，将右边的全部填入(已经排好序了)
-        while (j < rightnums.length) {
-            nums[k] = rightnums[j];
-            k++;
-            j++;
+        //左边的用完了，右边满上
+        while (j < right.length) {
+            arrays[k++] = right[j++];
         }
     }
 }

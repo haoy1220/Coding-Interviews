@@ -3,7 +3,22 @@
   <component name="ChangeListManager">
     <list default="true" id="a11aa652-8a37-4f97-ae6b-49c68c554634" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/面试题13_机器人的运动范围/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/面试题13_机器人的运动范围/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/排序算法/冒泡排序/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/排序算法/冒泡排序/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/排序算法/基数排序/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/排序算法/基数排序/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/排序算法/希尔排序/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/排序算法/希尔排序/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/排序算法/归并排序/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/排序算法/归并排序/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/排序算法/快速排序/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/排序算法/快速排序/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/排序算法/插入排序/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/排序算法/插入排序/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/排序算法/选择排序/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/排序算法/选择排序/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/排序算法/冒泡排序/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/排序算法/冒泡排序/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/排序算法/冒泡排序/Solution2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/排序算法/冒泡排序/Solution2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/排序算法/基数排序/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/排序算法/基数排序/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/排序算法/希尔排序/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/排序算法/希尔排序/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/排序算法/归并排序/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/排序算法/归并排序/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/排序算法/快速排序/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/排序算法/快速排序/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/排序算法/插入排序/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/排序算法/插入排序/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/排序算法/插入排序/Solution2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/排序算法/插入排序/Solution2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/排序算法/选择排序/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/排序算法/选择排序/Solution.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,15 +34,97 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/排序算法/冒泡排序/SolutionTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="14" selection-start-line="14" selection-end-line="19" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/排序算法/选择排序/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="700">
+              <caret line="25" column="17" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/排序算法/快速排序/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="588">
+              <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/排序算法/归并排序/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="532">
+              <caret line="64" column="21" selection-start-line="64" selection-start-column="21" selection-end-line="64" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/排序算法/插入排序/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="217">
+              <caret line="38" column="6" selection-start-line="38" selection-start-column="6" selection-end-line="38" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/排序算法/堆排序/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/排序算法/堆排序/SolutionTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="359">
+              <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/排序算法/归并排序/SolutionTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="364">
+              <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/排序算法/选择排序/SolutionTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="FxmlFile" />
         <option value="Arquillian JUnit Test Class" />
-        <option value="JUnit4 Test Class" />
         <option value="Class" />
+        <option value="JUnit4 Test Class" />
       </list>
     </option>
   </component>
@@ -37,11 +134,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/排序算法/冒泡排序/Solution.java" />
-        <option value="$PROJECT_DIR$/src/main/java/排序算法/选择排序/Solution.java" />
-        <option value="$PROJECT_DIR$/src/main/java/排序算法/插入排序/Solution.java" />
-        <option value="$PROJECT_DIR$/src/main/java/排序算法/快速排序/Solution.java" />
-        <option value="$PROJECT_DIR$/src/main/java/排序算法/归并排序/Solution.java" />
         <option value="$PROJECT_DIR$/src/main/java/面试题3_数组中重复的数字/Solution.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/README.md" />
@@ -51,6 +143,22 @@
         <option value="$PROJECT_DIR$/src/test/java/面试题13_机器人的运动范围/SolutionTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/面试题13_机器人的运动范围/Solution.java" />
         <option value="$PROJECT_DIR$/src/main/java/面试题14_剪绳子/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/排序算法/基数排序/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/排序算法/希尔排序/Solution.java" />
+        <option value="$PROJECT_DIR$/src/test/java/排序算法/希尔排序/SolutionTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/排序算法/插入排序/Solution2Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/排序算法/插入排序/Solution.java" />
+        <option value="$PROJECT_DIR$/src/test/java/排序算法/冒泡排序/SolutionTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/排序算法/冒泡排序/Solution.java" />
+        <option value="$PROJECT_DIR$/src/test/java/排序算法/冒泡排序/Solution2Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/排序算法/选择排序/Solution.java" />
+        <option value="$PROJECT_DIR$/src/test/java/排序算法/选择排序/SolutionTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/排序算法/快速排序/Solution.java" />
+        <option value="$PROJECT_DIR$/src/test/java/排序算法/归并排序/SolutionTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/排序算法/归并排序/Solution2.java" />
+        <option value="$PROJECT_DIR$/src/test/java/排序算法/归并排序/Solution2Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/排序算法/归并排序/Solution.java" />
+        <option value="$PROJECT_DIR$/src/test/java/排序算法/堆排序/SolutionTest.java" />
       </list>
     </option>
   </component>
@@ -99,10 +207,10 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="952" />
-    <option name="width" value="977" />
-    <option name="height" value="1038" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="951" />
+    <option name="width" value="978" />
+    <option name="height" value="1039" />
   </component>
   <component name="ProjectId" id="1TUesgdgVmWw3fOeHXSQHSg7Drx" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -114,6 +222,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -143,6 +252,106 @@
               <item name="Coding-Interviews" type="b2602c69:ProjectViewProjectNode" />
               <item name="Coding-Interviews" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="排序算法" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Coding-Interviews" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Coding-Interviews" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="排序算法" type="462c0819:PsiDirectoryNode" />
+              <item name="冒泡排序" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Coding-Interviews" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Coding-Interviews" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="排序算法" type="462c0819:PsiDirectoryNode" />
+              <item name="冒泡排序" type="462c0819:PsiDirectoryNode" />
+              <item name="Solution.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="Coding-Interviews" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Coding-Interviews" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="排序算法" type="462c0819:PsiDirectoryNode" />
+              <item name="基数排序" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Coding-Interviews" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Coding-Interviews" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="排序算法" type="462c0819:PsiDirectoryNode" />
+              <item name="堆排序" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Coding-Interviews" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Coding-Interviews" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="排序算法" type="462c0819:PsiDirectoryNode" />
+              <item name="希尔排序" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Coding-Interviews" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Coding-Interviews" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="排序算法" type="462c0819:PsiDirectoryNode" />
+              <item name="归并排序" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Coding-Interviews" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Coding-Interviews" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="排序算法" type="462c0819:PsiDirectoryNode" />
+              <item name="快速排序" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Coding-Interviews" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Coding-Interviews" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="排序算法" type="462c0819:PsiDirectoryNode" />
+              <item name="插入排序" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Coding-Interviews" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Coding-Interviews" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="排序算法" type="462c0819:PsiDirectoryNode" />
+              <item name="插入排序" type="462c0819:PsiDirectoryNode" />
+              <item name="Solution.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="Coding-Interviews" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Coding-Interviews" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="排序算法" type="462c0819:PsiDirectoryNode" />
+              <item name="选择排序" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Coding-Interviews" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Coding-Interviews" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -151,6 +360,50 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Coding-Interviews" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Coding-Interviews" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="排序算法" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Coding-Interviews" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Coding-Interviews" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="排序算法" type="462c0819:PsiDirectoryNode" />
+              <item name="冒泡排序" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Coding-Interviews" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Coding-Interviews" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="排序算法" type="462c0819:PsiDirectoryNode" />
+              <item name="希尔排序" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Coding-Interviews" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Coding-Interviews" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="排序算法" type="462c0819:PsiDirectoryNode" />
+              <item name="归并排序" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Coding-Interviews" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Coding-Interviews" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="排序算法" type="462c0819:PsiDirectoryNode" />
+              <item name="插入排序" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Coding-Interviews" type="b2602c69:ProjectViewProjectNode" />
@@ -169,7 +422,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -190,21 +442,21 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
-      <recent name="面试题13_机器人的运动范围" />
-      <recent name="面试题12_打印1到最大的n位数" />
-      <recent name="面试题8_旋转数组的最小数字" />
-      <recent name="面试题7_用两个栈实现队列" />
-      <recent name="面试题5_从尾到头打印链表" />
-    </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="" />
-    </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
+      <recent name="排序算法.堆排序" />
+      <recent name="排序算法.归并排序" />
+      <recent name="排序算法.选择排序" />
+      <recent name="排序算法.冒泡排序" />
+      <recent name="排序算法.插入排序" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\IdeaProjects\Coding-Interviews\src\main\resources" />
       <recent name="E:\IdeaProjects\Coding-Interviews\src\main\java\排序算法" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -219,39 +471,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.SolutionTest.count">
-    <configuration name="Solution2Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="面试题12_打印1到最大的n位数.Solution2Test" />
-      <module name="Coding-Interviews-Test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="面试题12_打印1到最大的n位数.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution3Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="面试题12_打印1到最大的n位数.Solution3Test" />
-      <module name="Coding-Interviews-Test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="面试题12_打印1到最大的n位数.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SolutionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="面试题12_打印1到最大的n位数.SolutionTest" />
+  <component name="RunManager" selected="JUnit.SolutionTest.heapSort">
+    <configuration name="Solution2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="排序算法.归并排序.Solution2" />
       <module name="Coding-Interviews" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="面试题12_打印1到最大的n位数.*" />
+          <option name="PATTERN" value="排序算法.归并排序.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -270,33 +496,65 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SolutionTest.count" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Solution2Test.mergeSort" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Coding-Interviews" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="面试题13_机器人的运动范围.*" />
+          <option name="PATTERN" value="排序算法.归并排序.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="面试题13_机器人的运动范围" />
-      <option name="MAIN_CLASS_NAME" value="面试题13_机器人的运动范围.SolutionTest" />
-      <option name="METHOD_NAME" value="count" />
+      <option name="PACKAGE_NAME" value="排序算法.归并排序" />
+      <option name="MAIN_CLASS_NAME" value="排序算法.归并排序.Solution2Test" />
+      <option name="METHOD_NAME" value="mergeSort" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SolutionTest.printLargest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Coding-Interviews-Test" />
+    <configuration name="SolutionTest.heapSort" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Coding-Interviews" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="面试题12_打印1到最大的n位数.*" />
+          <option name="PATTERN" value="排序算法.堆排序.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="面试题12_打印1到最大的n位数" />
-      <option name="MAIN_CLASS_NAME" value="面试题12_打印1到最大的n位数.SolutionTest" />
-      <option name="METHOD_NAME" value="printLargest" />
+      <option name="PACKAGE_NAME" value="排序算法.堆排序" />
+      <option name="MAIN_CLASS_NAME" value="排序算法.堆排序.SolutionTest" />
+      <option name="METHOD_NAME" value="heapSort" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SolutionTest.mergeSort" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Coding-Interviews" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="排序算法.归并排序.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="排序算法.归并排序" />
+      <option name="MAIN_CLASS_NAME" value="排序算法.归并排序.SolutionTest" />
+      <option name="METHOD_NAME" value="mergeSort" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SolutionTest.selectSort" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Coding-Interviews" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="排序算法.选择排序.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="排序算法.选择排序" />
+      <option name="MAIN_CLASS_NAME" value="排序算法.选择排序.SolutionTest" />
+      <option name="METHOD_NAME" value="selectSort" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -304,11 +562,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.SolutionTest.count" />
-        <item itemvalue="Application.SolutionTest" />
-        <item itemvalue="Application.Solution3Test (1)" />
-        <item itemvalue="Application.Solution2Test (1)" />
-        <item itemvalue="JUnit.SolutionTest.printLargest" />
+        <item itemvalue="JUnit.SolutionTest.heapSort" />
+        <item itemvalue="JUnit.Solution2Test.mergeSort" />
+        <item itemvalue="Application.Solution2" />
+        <item itemvalue="JUnit.SolutionTest.mergeSort" />
+        <item itemvalue="JUnit.SolutionTest.selectSort" />
       </list>
     </recent_temporary>
   </component>
@@ -362,44 +620,48 @@
       <workItem from="1575639039165" duration="4038000" />
       <workItem from="1575681988276" duration="3298000" />
       <workItem from="1575764845393" duration="163000" />
-      <workItem from="1575766283278" duration="4028000" />
+      <workItem from="1575766283278" duration="4112000" />
+      <workItem from="1575784524897" duration="3703000" />
+      <workItem from="1575789142704" duration="1403000" />
+      <workItem from="1575793041377" duration="6349000" />
+      <workItem from="1575819516887" duration="474000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SolutionTest_reConstructBinaryTree - 2019.11.12 at 00h 04m 09s.xml">
-      <configuration name="SolutionTest.reConstructBinaryTree" configurationId="JUnit" />
+    <history-entry file="SolutionTest_shellSort - 2019.12.08 at 15h 14m 13s.xml">
+      <configuration name="SolutionTest.shellSort" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SolutionTest_reConstructBinaryTree - 2019.11.12 at 00h 05m 17s.xml">
-      <configuration name="SolutionTest.reConstructBinaryTree" configurationId="JUnit" />
+    <history-entry file="SolutionTest_shellSort - 2019.12.08 at 15h 15m 16s.xml">
+      <configuration name="SolutionTest.shellSort" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SolutionTest_reConstructBinaryTree - 2019.11.12 at 00h 09m 22s.xml">
-      <configuration name="SolutionTest.reConstructBinaryTree" configurationId="JUnit" />
+    <history-entry file="Solution2Test_insertSort - 2019.12.08 at 15h 16m 25s.xml">
+      <configuration name="Solution2Test.insertSort" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SolutionTest_reConstructBinaryTree - 2019.11.12 at 00h 12m 20s.xml">
-      <configuration name="SolutionTest.reConstructBinaryTree" configurationId="JUnit" />
+    <history-entry file="SolutionTest_bublleSort - 2019.12.08 at 16h 44m 55s.xml">
+      <configuration name="SolutionTest.bublleSort" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SolutionTest_reConstructBinaryTree - 2019.11.12 at 00h 15m 10s.xml">
-      <configuration name="SolutionTest.reConstructBinaryTree" configurationId="JUnit" />
+    <history-entry file="SolutionTest_bublleSort - 2019.12.08 at 16h 45m 42s.xml">
+      <configuration name="SolutionTest.bublleSort" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SolutionTest_reConstructBinaryTree - 2019.11.12 at 00h 16m 00s.xml">
-      <configuration name="SolutionTest.reConstructBinaryTree" configurationId="JUnit" />
+    <history-entry file="Solution2Test_bublleSort - 2019.12.08 at 16h 49m 23s.xml">
+      <configuration name="Solution2Test.bublleSort" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SolutionTest_reConstructBinaryTree - 2019.11.12 at 00h 24m 25s.xml">
-      <configuration name="SolutionTest.reConstructBinaryTree" configurationId="JUnit" />
+    <history-entry file="SolutionTest_selectSort - 2019.12.08 at 17h 12m 02s.xml">
+      <configuration name="SolutionTest.selectSort" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SolutionTest_reConstructBinaryTree - 2019.11.12 at 00h 24m 30s.xml">
-      <configuration name="SolutionTest.reConstructBinaryTree" configurationId="JUnit" />
+    <history-entry file="SolutionTest_mergeSort - 2019.12.08 at 23h 10m 02s.xml">
+      <configuration name="SolutionTest.mergeSort" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SolutionTest_printLargest - 2019.11.17 at 09h 51m 05s.xml">
-      <configuration name="SolutionTest.printLargest" configurationId="JUnit" />
+    <history-entry file="Solution2Test_mergeSort - 2019.12.08 at 23h 25m 44s.xml">
+      <configuration name="Solution2Test.mergeSort" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SolutionTest_count - 2019.12.07 at 09h 40m 55s.xml">
-      <configuration name="SolutionTest.count" configurationId="JUnit" />
+    <history-entry file="SolutionTest_heapSort - 2019.12.08 at 23h 46m 15s.xml">
+      <configuration name="SolutionTest.heapSort" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22760000" />
+    <option name="totallyTimeSpent" value="34773000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -411,9 +673,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="762" y="0" width="781" height="830" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.6030429" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3424933" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="JRebel" order="3" side_tool="true" />
@@ -431,7 +694,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Docker" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50067025" side_tool="true" weight="0.33002833" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3286119" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32719547" />
       <window_info anchor="bottom" id="Problems" order="11" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="bottom" id="Version Control" order="13" />
@@ -514,58 +777,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="224">
           <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/排序算法/堆排序/Solution.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/排序算法/归并排序/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2044">
-          <caret line="73" column="16" selection-start-line="73" selection-start-column="16" selection-end-line="73" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/排序算法/基数排序/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/排序算法/快速排序/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/排序算法/冒泡排序/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="896">
-          <caret line="32" column="3" selection-start-line="32" selection-start-column="3" selection-end-line="32" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/排序算法/希尔排序/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/排序算法/选择排序/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/排序算法/插入排序/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="980">
-          <caret line="35" column="3" selection-start-line="35" selection-start-column="3" selection-end-line="35" selection-end-column="3" />
         </state>
       </provider>
     </entry>
@@ -660,16 +871,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="177">
-            <caret line="45" selection-start-line="45" selection-end-line="45" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/面试题14_剪绳子/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="561">
@@ -681,6 +882,138 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="723">
           <caret line="57" selection-start-line="57" selection-end-line="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/排序算法/希尔排序/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/排序算法/希尔排序/SolutionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="19" column="9" selection-start-line="14" selection-start-column="8" selection-end-line="19" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/排序算法/插入排序/Solution2Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/排序算法/基数排序/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-803">
+          <caret line="16" column="46" selection-start-line="16" selection-start-column="46" selection-end-line="16" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="596">
+            <caret line="45" selection-start-line="45" selection-end-line="45" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/排序算法/冒泡排序/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1064">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/排序算法/冒泡排序/Solution2Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/排序算法/冒泡排序/SolutionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="14" selection-start-line="14" selection-end-line="19" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/排序算法/选择排序/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="25" column="17" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/排序算法/快速排序/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="588">
+          <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/排序算法/归并排序/SolutionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/排序算法/选择排序/SolutionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/排序算法/归并排序/Solution2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/排序算法/归并排序/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="64" column="21" selection-start-line="64" selection-start-column="21" selection-end-line="64" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/排序算法/插入排序/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="38" column="6" selection-start-line="38" selection-start-column="6" selection-end-line="38" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/排序算法/堆排序/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/排序算法/归并排序/Solution2Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/排序算法/堆排序/SolutionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
         </state>
       </provider>
     </entry>

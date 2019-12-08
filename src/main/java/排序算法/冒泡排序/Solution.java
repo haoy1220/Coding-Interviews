@@ -15,12 +15,12 @@ public class Solution {
         //排序n-1趟
         for (int i = 0; i < nums.length - 1; i++) {
 
-            //i趟过后只要n-1-i次排序
-            for (int j = 0; j < nums.length - 1 - i; j++) {
-                if (nums[j] > nums[j + 1]) {
-                    int temp = nums[j];
-                    nums[j] = nums[j + 1];
-                    nums[j + 1] = temp;
+            //i趟过后只要排到n-i位就行，后面的已经排好了
+            for (int j = 1; j < nums.length - i; j++) {
+                if (nums[j - 1] > nums[j]) {
+                    int temp = nums[j - 1];
+                    nums[j - 1] = nums[j];
+                    nums[j] = temp;
                 }
             }
         }
@@ -39,14 +39,14 @@ class Solution2 {
 
             boolean isChange = false;
 
-            //i趟过后只要n-1-i次排序
-            for (int j = 0; j < nums.length - 1 - i; j++) {
-                if (nums[j] > nums[j + 1]) {
-                    int temp = nums[j];
-                    nums[j] = nums[j + 1];
-                    nums[j + 1] = temp;
+            //i趟过后只要排到n-i位就行，后面的已经排好了
+            for (int j = 1; j < nums.length - i; j++) {
+                if (nums[j - 1] > nums[j]) {
+                    int temp = nums[j - 1];
+                    nums[j - 1] = nums[j];
+                    nums[j] = temp;
 
-                    //发生交换就标记
+                    //进来这里说明发生了交换
                     isChange = true;
                 }
             }

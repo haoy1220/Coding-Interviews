@@ -20,7 +20,7 @@ public class Solution {
             int temp = nums[i];
 
             //向前比较，并记录位置
-            while (i >= 1 && nums[i - 1] > temp) {
+            while (i - 1 >= 0 && nums[i - 1] > temp) {
                 nums[i] = nums[i - 1];
                 i--;
             }
@@ -47,7 +47,7 @@ class Solution2 {
             int tempi = i;
 
             ////向前比较，并记录位置
-            while (tempi >= 1 && nums[tempi - 1] > temp) {
+            while (tempi - 1 >= 0 && nums[tempi - 1] > temp) {
                 nums[tempi] = nums[tempi - 1];
                 tempi--;
             }

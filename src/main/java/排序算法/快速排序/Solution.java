@@ -14,47 +14,47 @@ package 排序算法.快速排序;
 public class Solution {
     public void quickSort(int[] nums) {
         if (nums.length == 0) return;
-        sort(nums, 0, nums.length - 1);
+        _quickSort(nums, 0, nums.length - 1);
     }
 
-    public void sort(int[] nums, int begin, int end) {
-        int i = begin;
-        int j = end;
+    public void _quickSort(int[] nums, int begin, int end) {
+        int left = begin;
+        int right = end;
 
         //先将中间点当作支点，左边全小于中间点，右边全大于中间点
         int pivot = nums[(begin + end) / 2];
 
         //左右两端扫描，直到两端交替错开
-        while (i <= j) {
+        while (left <= right) {
 
             //找到比支点大的i
-            while (pivot > nums[i]) {
-                i++;
+            while (pivot > nums[left]) {
+                left++;
             }
 
             //找到比支点小的j
-            while (pivot < nums[j]) {
-                j--;
+            while (pivot < nums[right]) {
+                right--;
             }
 
             //将找到的i、j对应位的值交换，然后继续下一位
-            if (i <= j) {
-                int temp = nums[i];
-                nums[i] = nums[j];
-                nums[j] = temp;
-                i++;
-                j--;
+            if (left <= right) {
+                int temp = nums[left];
+                nums[left] = nums[right];
+                nums[right] = temp;
+                left++;
+                right--;
             }
         }
 
         //左边递归，结束条件就是当只有一个元素的时候
-        if (begin < j) {
-            sort(nums, begin, j);
+        if (begin < right) {
+            _quickSort(nums, begin, right);
         }
 
         //右边递归，结束条件就是当只有一个元素的时候
-        if (end > i) {
-            sort(nums, i, end);
+        if (end > left) {
+            _quickSort(nums, left, end);
         }
     }
 }
