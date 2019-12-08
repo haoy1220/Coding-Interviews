@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a11aa652-8a37-4f97-ae6b-49c68c554634" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/面试题12_矩阵中的路径/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/面试题12_矩阵中的路径/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/面试题13_机器人的运动范围/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/面试题13_机器人的运动范围/Solution.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,15 +19,15 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="FxmlFile" />
         <option value="Arquillian JUnit Test Class" />
-        <option value="Class" />
         <option value="JUnit4 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -50,6 +50,7 @@
         <option value="$PROJECT_DIR$/src/main/java/面试题12_矩阵中的路径/Solution.java" />
         <option value="$PROJECT_DIR$/src/test/java/面试题13_机器人的运动范围/SolutionTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/面试题13_机器人的运动范围/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/面试题14_剪绳子/Solution.java" />
       </list>
     </option>
   </component>
@@ -98,11 +99,10 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="415" />
-    <option name="y" value="-20" />
-    <option name="width" value="960" />
-    <option name="height" value="1040" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="952" />
+    <option name="width" value="977" />
+    <option name="height" value="1038" />
   </component>
   <component name="ProjectId" id="1TUesgdgVmWw3fOeHXSQHSg7Drx" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -113,6 +113,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -169,7 +170,6 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -361,6 +361,8 @@
       <workItem from="1575551397589" duration="4627000" />
       <workItem from="1575639039165" duration="4038000" />
       <workItem from="1575681988276" duration="3298000" />
+      <workItem from="1575764845393" duration="163000" />
+      <workItem from="1575766283278" duration="4028000" />
     </task>
     <servers />
   </component>
@@ -397,7 +399,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18569000" />
+    <option name="totallyTimeSpent" value="22760000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -409,9 +411,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="762" y="0" width="781" height="830" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2841823" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.6030429" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="JRebel" order="3" side_tool="true" />
@@ -658,13 +660,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/面试题13_机器人的运动范围/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="387">
-          <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -672,6 +667,20 @@
             <caret line="45" selection-start-line="45" selection-end-line="45" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/面试题14_剪绳子/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="89" column="19" selection-start-line="89" selection-start-column="19" selection-end-line="89" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/面试题13_机器人的运动范围/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="723">
+          <caret line="57" selection-start-line="57" selection-end-line="57" />
         </state>
       </provider>
     </entry>
