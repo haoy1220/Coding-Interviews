@@ -2,76 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a11aa652-8a37-4f97-ae6b-49c68c554634" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/Coding-Interviews-Test.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/sort.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/sum.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/排序算法/冒泡排序/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/排序算法/冒泡排序/Solution2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/排序算法/基数排序/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/排序算法/堆排序/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/排序算法/希尔排序/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/排序算法/归并排序/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/排序算法/快速排序/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/排序算法/插入排序/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/排序算法/插入排序/Solution2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/排序算法/选择排序/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/数据结构/ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/数据结构/TreeLinkNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/数据结构/TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/面试题10_斐波那契数列/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/面试题10_斐波那契数列/Solution2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/面试题10_斐波那契数列/Solution3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/面试题10_斐波那契数列/Solution4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/面试题10_斐波那契数列/Solution5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/面试题11_旋转数组的最小数字/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/面试题11_旋转数组的最小数字/Solution2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/面试题12_矩阵中的路径/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/面试题13_机器人的运动范围/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/面试题14_剪绳子/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/面试题14_剪绳子/Solution2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/面试题15_二进制中1的个数/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/面试题15_二进制中1的个数/Solution2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/面试题16_数值的整数次方/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/面试题16_数值的整数次方/Solution2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/面试题16_数值的整数次方/Solution3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/面试题17_打印1到最大的n位数/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/面试题17_打印1到最大的n位数/Solution2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/面试题17_打印1到最大的n位数/Solution3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/面试题18_删除链表的结点/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/面试题18_删除链表的结点/Solution2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/面试题3_数组中重复的数字/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/面试题3_数组中重复的数字/Solution2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/面试题4_二维数组中的查找/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/面试题5_替换空格/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/面试题5_替换空格/Solution2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/面试题6_从尾到头打印链表/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/面试题6_从尾到头打印链表/Solution2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/面试题6_从尾到头打印链表/Solution3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/面试题7_重建二叉树/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/面试题7_重建二叉树/Solution2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/面试题8_二叉树的下一个节点/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/面试题9_用两个栈实现队列/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/面试题9_用两个栈实现队列/Solution2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/面试题9_用两个栈实现队列/Solution3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/Coding-Interviews-Test.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/排序算法/冒泡排序/Solution2Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/排序算法/冒泡排序/SolutionTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/排序算法/堆排序/SolutionTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/排序算法/希尔排序/SolutionTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/排序算法/归并排序/SolutionTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/排序算法/插入排序/Solution2Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/排序算法/选择排序/SolutionTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/面试题11_旋转数组的最小数字/Solution2Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/面试题13_机器人的运动范围/SolutionTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/面试题17_打印1到最大的n位数/Solution2Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/面试题17_打印1到最大的n位数/Solution3Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/面试题17_打印1到最大的n位数/SolutionTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/面试题18_删除链表的结点/Solution2Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/面试题18_删除链表的结点/SolutionTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/面试题6_从尾到头打印链表/Solution3Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/面试题7_重建二叉树/SolutionTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/面试题9_用两个栈实现队列/Solution3Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -320,6 +251,7 @@
       <workItem from="1575793041377" duration="6349000" />
       <workItem from="1575819516887" duration="474000" />
       <workItem from="1577321577686" duration="24150000" />
+      <workItem from="1577352206140" duration="74000" />
     </task>
     <servers />
   </component>

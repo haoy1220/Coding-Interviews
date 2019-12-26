@@ -63,3 +63,7 @@
 [面试题16_数值的整数次方](./src/main/java/面试题16_数值的整数次方/Solution.java)
 
 [面试题17_打印1到最大的n位数](./src/main/java/面试题17_打印1到最大的n位数/Solution.java)
+
+[面试题18_删除链表的结点](./src/main/java/面试题18_删除链表的结点/Solution.java)
+
+[面试题19_正则表达式匹配](./src/main/java/面试题19_正则表达式匹配/Solution.java)
