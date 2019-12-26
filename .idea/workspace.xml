@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a11aa652-8a37-4f97-ae6b-49c68c554634" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/排序算法/堆排序/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/排序算法/堆排序/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/排序算法/堆排序/SolutionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/排序算法/堆排序/SolutionTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/Coding-Interviews.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/排序算法/堆排序/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/排序算法/堆排序/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/Coding-Interviews.kotlin_module" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,8 +24,8 @@
       <list>
         <option value="FxmlFile" />
         <option value="Arquillian JUnit Test Class" />
-        <option value="JUnit4 Test Class" />
         <option value="Class" />
+        <option value="JUnit4 Test Class" />
       </list>
     </option>
   </component>
@@ -76,16 +70,16 @@
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
     <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/src/main/java/排序算法/堆排序/Solution.java" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="面试题18_删除链表的结点" />
       <recent name="排序算法.堆排序" />
       <recent name="排序算法.归并排序" />
       <recent name="排序算法.选择排序" />
       <recent name="排序算法.冒泡排序" />
-      <recent name="排序算法.插入排序" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="" />
@@ -110,7 +104,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.SolutionTest.testHeapSort">
+  <component name="RunManager" selected="JUnit.Solution2Test.deleteDuplication">
     <configuration name="All in Coding-Interviews-Test" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
       <module name="Coding-Interviews-Test" />
       <option name="PACKAGE_NAME" value="" />
@@ -118,6 +112,22 @@
       <option name="METHOD_NAME" value="" />
       <option name="TEST_OBJECT" value="package" />
       <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution2Test.deleteDuplication" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Coding-Interviews-Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="面试题18_删除链表的结点.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="面试题18_删除链表的结点" />
+      <option name="MAIN_CLASS_NAME" value="面试题18_删除链表的结点.Solution2Test" />
+      <option name="METHOD_NAME" value="deleteDuplication" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -138,17 +148,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution2Test.mergeSort" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Coding-Interviews" />
+    <configuration name="SolutionTest.deleteNode" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Coding-Interviews-Test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="排序算法.归并排序.*" />
+          <option name="PATTERN" value="面试题18_删除链表的结点.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="排序算法.归并排序" />
-      <option name="MAIN_CLASS_NAME" value="排序算法.归并排序.Solution2Test" />
-      <option name="METHOD_NAME" value="mergeSort" />
+      <option name="PACKAGE_NAME" value="面试题18_删除链表的结点" />
+      <option name="MAIN_CLASS_NAME" value="面试题18_删除链表的结点.SolutionTest" />
+      <option name="METHOD_NAME" value="deleteNode" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -156,22 +166,6 @@
     </configuration>
     <configuration name="SolutionTest.heapSort (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Coding-Interviews-Test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="排序算法.堆排序.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="排序算法.堆排序" />
-      <option name="MAIN_CLASS_NAME" value="排序算法.堆排序.SolutionTest" />
-      <option name="METHOD_NAME" value="heapSort" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SolutionTest.heapSort" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Coding-Interviews" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="排序算法.堆排序.*" />
@@ -204,11 +198,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Solution2Test.deleteDuplication" />
+        <item itemvalue="JUnit.SolutionTest.deleteNode" />
         <item itemvalue="JUnit.SolutionTest.testHeapSort" />
         <item itemvalue="JUnit.Solution2Test.heapSort" />
         <item itemvalue="JUnit.SolutionTest.heapSort (1)" />
-        <item itemvalue="JUnit.SolutionTest.heapSort" />
-        <item itemvalue="JUnit.Solution2Test.mergeSort" />
       </list>
     </recent_temporary>
   </component>
@@ -257,7 +251,7 @@
       <workItem from="1575789142704" duration="1403000" />
       <workItem from="1575793041377" duration="6349000" />
       <workItem from="1575819516887" duration="474000" />
-      <workItem from="1577321577686" duration="7332000" />
+      <workItem from="1577321577686" duration="15001000" />
     </task>
     <servers />
   </component>
