@@ -3,6 +3,75 @@
   <component name="ChangeListManager">
     <list default="true" id="a11aa652-8a37-4f97-ae6b-49c68c554634" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/Coding-Interviews-Test.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/sort.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/sum.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/排序算法/冒泡排序/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/排序算法/冒泡排序/Solution2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/排序算法/基数排序/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/排序算法/堆排序/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/排序算法/希尔排序/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/排序算法/归并排序/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/排序算法/快速排序/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/排序算法/插入排序/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/排序算法/插入排序/Solution2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/排序算法/选择排序/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/数据结构/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/数据结构/TreeLinkNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/数据结构/TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/面试题10_斐波那契数列/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/面试题10_斐波那契数列/Solution2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/面试题10_斐波那契数列/Solution3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/面试题10_斐波那契数列/Solution4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/面试题10_斐波那契数列/Solution5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/面试题11_旋转数组的最小数字/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/面试题11_旋转数组的最小数字/Solution2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/面试题12_矩阵中的路径/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/面试题13_机器人的运动范围/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/面试题14_剪绳子/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/面试题14_剪绳子/Solution2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/面试题15_二进制中1的个数/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/面试题15_二进制中1的个数/Solution2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/面试题16_数值的整数次方/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/面试题16_数值的整数次方/Solution2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/面试题16_数值的整数次方/Solution3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/面试题17_打印1到最大的n位数/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/面试题17_打印1到最大的n位数/Solution2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/面试题17_打印1到最大的n位数/Solution3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/面试题18_删除链表的结点/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/面试题18_删除链表的结点/Solution2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/面试题3_数组中重复的数字/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/面试题3_数组中重复的数字/Solution2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/面试题4_二维数组中的查找/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/面试题5_替换空格/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/面试题5_替换空格/Solution2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/面试题6_从尾到头打印链表/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/面试题6_从尾到头打印链表/Solution2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/面试题6_从尾到头打印链表/Solution3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/面试题7_重建二叉树/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/面试题7_重建二叉树/Solution2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/面试题8_二叉树的下一个节点/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/面试题9_用两个栈实现队列/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/面试题9_用两个栈实现队列/Solution2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/面试题9_用两个栈实现队列/Solution3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/Coding-Interviews-Test.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/排序算法/冒泡排序/Solution2Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/排序算法/冒泡排序/SolutionTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/排序算法/堆排序/SolutionTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/排序算法/希尔排序/SolutionTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/排序算法/归并排序/SolutionTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/排序算法/插入排序/Solution2Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/排序算法/选择排序/SolutionTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/面试题11_旋转数组的最小数字/Solution2Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/面试题13_机器人的运动范围/SolutionTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/面试题17_打印1到最大的n位数/Solution2Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/面试题17_打印1到最大的n位数/Solution3Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/面试题17_打印1到最大的n位数/SolutionTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/面试题18_删除链表的结点/Solution2Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/面试题18_删除链表的结点/SolutionTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/面试题6_从尾到头打印链表/Solution3Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/面试题7_重建二叉树/SolutionTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/面试题9_用两个栈实现队列/Solution3Test.class" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,8 +93,8 @@
       <list>
         <option value="FxmlFile" />
         <option value="Arquillian JUnit Test Class" />
-        <option value="Class" />
         <option value="JUnit4 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -75,11 +144,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="面试题19_正则表达式匹配" />
       <recent name="面试题18_删除链表的结点" />
       <recent name="排序算法.堆排序" />
       <recent name="排序算法.归并排序" />
       <recent name="排序算法.选择排序" />
-      <recent name="排序算法.冒泡排序" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="" />
@@ -104,7 +173,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Solution2Test.deleteDuplication">
+  <component name="RunManager" selected="JUnit.SolutionTest.match3">
     <configuration name="All in Coding-Interviews-Test" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
       <module name="Coding-Interviews-Test" />
       <option name="PACKAGE_NAME" value="" />
@@ -132,65 +201,64 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution2Test.heapSort" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SolutionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Coding-Interviews-Test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="排序算法.堆排序.*" />
+          <option name="PATTERN" value="面试题19_正则表达式匹配.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="排序算法.堆排序" />
-      <option name="MAIN_CLASS_NAME" value="排序算法.堆排序.Solution2Test" />
-      <option name="METHOD_NAME" value="heapSort" />
+      <option name="PACKAGE_NAME" value="面试题19_正则表达式匹配" />
+      <option name="MAIN_CLASS_NAME" value="面试题19_正则表达式匹配.SolutionTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SolutionTest.match" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Coding-Interviews-Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="面试题19_正则表达式匹配.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="面试题19_正则表达式匹配" />
+      <option name="MAIN_CLASS_NAME" value="面试题19_正则表达式匹配.SolutionTest" />
+      <option name="METHOD_NAME" value="match" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SolutionTest.deleteNode" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SolutionTest.match2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Coding-Interviews-Test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="面试题18_删除链表的结点.*" />
+          <option name="PATTERN" value="面试题19_正则表达式匹配.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="面试题18_删除链表的结点" />
-      <option name="MAIN_CLASS_NAME" value="面试题18_删除链表的结点.SolutionTest" />
-      <option name="METHOD_NAME" value="deleteNode" />
+      <option name="PACKAGE_NAME" value="面试题19_正则表达式匹配" />
+      <option name="MAIN_CLASS_NAME" value="面试题19_正则表达式匹配.SolutionTest" />
+      <option name="METHOD_NAME" value="match2" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SolutionTest.heapSort (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SolutionTest.match3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Coding-Interviews-Test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="排序算法.堆排序.*" />
+          <option name="PATTERN" value="面试题19_正则表达式匹配.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="排序算法.堆排序" />
-      <option name="MAIN_CLASS_NAME" value="排序算法.堆排序.SolutionTest" />
-      <option name="METHOD_NAME" value="heapSort" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SolutionTest.testHeapSort" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Coding-Interviews-Test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="排序算法.堆排序.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="排序算法.堆排序" />
-      <option name="MAIN_CLASS_NAME" value="排序算法.堆排序.SolutionTest" />
-      <option name="METHOD_NAME" value="testHeapSort" />
+      <option name="PACKAGE_NAME" value="面试题19_正则表达式匹配" />
+      <option name="MAIN_CLASS_NAME" value="面试题19_正则表达式匹配.SolutionTest" />
+      <option name="METHOD_NAME" value="match3" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -198,11 +266,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SolutionTest.match3" />
+        <item itemvalue="JUnit.SolutionTest.match2" />
+        <item itemvalue="JUnit.SolutionTest" />
+        <item itemvalue="JUnit.SolutionTest.match" />
         <item itemvalue="JUnit.Solution2Test.deleteDuplication" />
-        <item itemvalue="JUnit.SolutionTest.deleteNode" />
-        <item itemvalue="JUnit.SolutionTest.testHeapSort" />
-        <item itemvalue="JUnit.Solution2Test.heapSort" />
-        <item itemvalue="JUnit.SolutionTest.heapSort (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -251,7 +319,7 @@
       <workItem from="1575789142704" duration="1403000" />
       <workItem from="1575793041377" duration="6349000" />
       <workItem from="1575819516887" duration="474000" />
-      <workItem from="1577321577686" duration="15001000" />
+      <workItem from="1577321577686" duration="24150000" />
     </task>
     <servers />
   </component>
@@ -345,6 +413,11 @@
           <url>file://$PROJECT_DIR$/src/test/java/面试题17_打印1到最大的n位数/Solution2Test.java</url>
           <line>8</line>
           <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/面试题19_正则表达式匹配/SolutionTest.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="23" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
