@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a11aa652-8a37-4f97-ae6b-49c68c554634" name="Default Changelist" comment="面试题20_表示数值的字符串">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -272,7 +273,7 @@
       <workItem from="1575819516887" duration="474000" />
       <workItem from="1577321577686" duration="24150000" />
       <workItem from="1577352206140" duration="74000" />
-      <workItem from="1577407443824" duration="18286000" />
+      <workItem from="1577407443824" duration="20175000" />
     </task>
     <task id="LOCAL-00001" summary="面试题20_表示数值的字符串">
       <created>1577410923124</created>

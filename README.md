@@ -79,3 +79,5 @@
 [面试题24_反转链表](./src/main/java/面试题24_反转链表/Solution.java)
 
 [面试题25_合并两个排序的链表](./src/main/java/面试题25_合并两个排序的链表/Solution.java)
+
+[面试题26_树的子结构](./src/main/java/面试题26_树的子结构/Solution.java)
