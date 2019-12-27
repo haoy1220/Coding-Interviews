@@ -34,4 +34,10 @@ public class Solution {
         return after;
 
     }
+
 }
+
+/*
+ * 总结
+ * 善用双指针，解决双端走，或先后走问题
+ */
