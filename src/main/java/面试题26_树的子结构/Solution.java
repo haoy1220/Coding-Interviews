@@ -42,3 +42,9 @@ public class Solution {
                 DoesTree1HaveTree2(root1.right, root2.right);
     }
 }
+
+
+/*
+ * 总结
+ * 注意double值的比较，可以自己实现一个equals函数，差值在一定范围内表示相等，因为两个看起来一样的double值使用==往往结果不相等
+ */
