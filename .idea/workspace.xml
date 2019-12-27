@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a11aa652-8a37-4f97-ae6b-49c68c554634" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,12 +24,17 @@
       <list>
         <option value="FxmlFile" />
         <option value="Arquillian JUnit Test Class" />
-        <option value="JUnit4 Test Class" />
         <option value="Class" />
+        <option value="JUnit4 Test Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="haoy1220 &lt;haoaying@outlook.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JRebelWorkspace">
@@ -75,21 +80,21 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="面试题20_表示数值的字符串" />
       <recent name="面试题19_正则表达式匹配" />
       <recent name="面试题18_删除链表的结点" />
       <recent name="排序算法.堆排序" />
       <recent name="排序算法.归并排序" />
-      <recent name="排序算法.选择排序" />
-    </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="" />
-    </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\IdeaProjects\Coding-Interviews\src\main\resources" />
       <recent name="E:\IdeaProjects\Coding-Interviews\src\main\java\排序算法" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -104,7 +109,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.SolutionTest.match3">
+  <component name="RunManager" selected="JUnit.SolutionTest.isNumeric3">
     <configuration name="All in Coding-Interviews-Test" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
       <module name="Coding-Interviews-Test" />
       <option name="PACKAGE_NAME" value="" />
@@ -116,48 +121,49 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution2Test.deleteDuplication" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SolutionTest.isNumeric" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Coding-Interviews-Test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="面试题18_删除链表的结点.*" />
+          <option name="PATTERN" value="面试题20_表示数值的字符串.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="面试题18_删除链表的结点" />
-      <option name="MAIN_CLASS_NAME" value="面试题18_删除链表的结点.Solution2Test" />
-      <option name="METHOD_NAME" value="deleteDuplication" />
+      <option name="PACKAGE_NAME" value="面试题20_表示数值的字符串" />
+      <option name="MAIN_CLASS_NAME" value="面试题20_表示数值的字符串.SolutionTest" />
+      <option name="METHOD_NAME" value="isNumeric" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SolutionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SolutionTest.isNumeric2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Coding-Interviews-Test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="面试题19_正则表达式匹配.*" />
+          <option name="PATTERN" value="面试题20_表示数值的字符串.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="面试题19_正则表达式匹配" />
-      <option name="MAIN_CLASS_NAME" value="面试题19_正则表达式匹配.SolutionTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="面试题20_表示数值的字符串" />
+      <option name="MAIN_CLASS_NAME" value="面试题20_表示数值的字符串.SolutionTest" />
+      <option name="METHOD_NAME" value="isNumeric2" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SolutionTest.match" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SolutionTest.isNumeric3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Coding-Interviews-Test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="面试题19_正则表达式匹配.*" />
+          <option name="PATTERN" value="面试题20_表示数值的字符串.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="面试题19_正则表达式匹配" />
-      <option name="MAIN_CLASS_NAME" value="面试题19_正则表达式匹配.SolutionTest" />
-      <option name="METHOD_NAME" value="match" />
+      <option name="PACKAGE_NAME" value="面试题20_表示数值的字符串" />
+      <option name="MAIN_CLASS_NAME" value="面试题20_表示数值的字符串.SolutionTest" />
+      <option name="METHOD_NAME" value="isNumeric3" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -197,11 +203,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SolutionTest.isNumeric3" />
+        <item itemvalue="JUnit.SolutionTest.isNumeric2" />
+        <item itemvalue="JUnit.SolutionTest.isNumeric" />
         <item itemvalue="JUnit.SolutionTest.match3" />
         <item itemvalue="JUnit.SolutionTest.match2" />
-        <item itemvalue="JUnit.SolutionTest" />
-        <item itemvalue="JUnit.SolutionTest.match" />
-        <item itemvalue="JUnit.Solution2Test.deleteDuplication" />
       </list>
     </recent_temporary>
   </component>
@@ -252,6 +258,7 @@
       <workItem from="1575819516887" duration="474000" />
       <workItem from="1577321577686" duration="24150000" />
       <workItem from="1577352206140" duration="74000" />
+      <workItem from="1577407443824" duration="3307000" />
     </task>
     <servers />
   </component>
@@ -350,6 +357,21 @@
           <url>file://$PROJECT_DIR$/src/test/java/面试题19_正则表达式匹配/SolutionTest.java</url>
           <line>26</line>
           <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/面试题20_表示数值的字符串/SolutionTest.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/面试题20_表示数值的字符串/SolutionTest.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/面试题20_表示数值的字符串/SolutionTest.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="26" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
