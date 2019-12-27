@@ -2,8 +2,6 @@
 
 #### 排序算法
 
-![](./src/main/resources/sort.PNG)
-
 [插入排序](./src/main/java/排序算法/插入排序/Solution.java)
 
 [选择排序](./src/main/java/排序算法/选择排序/Solution.java)
@@ -19,6 +17,8 @@
 [堆排序](./src/main/java/排序算法/堆排序/Solution.java)
 
 [基数排序](./src/main/java/排序算法/基数排序/Solution.java)
+
+![](./src/main/resources/sort.png)
 
 ### 稳定性：
 
