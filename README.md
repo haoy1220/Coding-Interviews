@@ -83,3 +83,5 @@
 [面试题26_树的子结构](./src/main/java/面试题26_树的子结构/Solution.java)
 
 [面试题27_二叉树的镜像](./src/main/java/面试题27_二叉树的镜像/Solution.java)
+
+[面试题28_对称的二叉树](./src/main/java/面试题28_对称的二叉树/Solution.java)
