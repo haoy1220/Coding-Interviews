@@ -89,3 +89,5 @@
 [面试题29_顺时针打印矩阵](./src/main/java/面试题29_顺时针打印矩阵/Solution.java)
 
 [面试题30_包含min函数的栈](./src/main/java/面试题30_包含min函数的栈/Solution.java)
+
+[面试题31_栈的压入弹出序列](./src/main/java/面试题31_栈的压入弹出序列/Solution.java)
