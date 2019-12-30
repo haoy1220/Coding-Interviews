@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="a11aa652-8a37-4f97-ae6b-49c68c554634" name="Default Changelist" comment="面试题20_表示数值的字符串">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -115,6 +115,18 @@
       <recent name="" />
     </key>
   </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
   <component name="RunManager" selected="JUnit.Solution2Test.reverseList">
     <configuration name="All in Coding-Interviews-Test" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
       <module name="Coding-Interviews-Test" />
@@ -217,18 +229,6 @@
       </list>
     </recent_temporary>
   </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
-  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -279,6 +279,7 @@
       <workItem from="1577407443824" duration="21108000" />
       <workItem from="1577533002299" duration="4019000" />
       <workItem from="1577588769256" duration="9506000" />
+      <workItem from="1577666694559" duration="1278000" />
     </task>
     <task id="LOCAL-00001" summary="面试题20_表示数值的字符串">
       <created>1577410923124</created>
@@ -401,11 +402,6 @@
           <url>file://$PROJECT_DIR$/src/test/java/排序算法/插入排序/Solution2Test.java</url>
           <line>15</line>
           <option name="timeStamp" value="27" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/面试题22_链表中倒数第k个节点/SolutionTest.java</url>
-          <line>20</line>
-          <option name="timeStamp" value="28" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/面试题24_反转链表/Solution2Test.java</url>
