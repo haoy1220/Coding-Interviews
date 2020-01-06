@@ -93,3 +93,5 @@
 [面试题31_栈的压入弹出序列](./src/main/java/面试题31_栈的压入弹出序列/Solution.java)
 
 [面试题32_从上到下打印二叉树](./src/main/java/面试题32_从上到下打印二叉树/Solution.java)
+
+[面试题33_二叉树搜索树的后序遍历序列](./src/main/java/面试题33_二叉树搜索树的后序遍历序列/Solution.java)

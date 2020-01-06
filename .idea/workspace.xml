@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a11aa652-8a37-4f97-ae6b-49c68c554634" name="Default Changelist" comment="面试题20_表示数值的字符串">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,8 +38,8 @@
       <list>
         <option value="FxmlFile" />
         <option value="Arquillian JUnit Test Class" />
-        <option value="Class" />
         <option value="JUnit4 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -82,7 +83,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../changgou" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -279,7 +280,10 @@
       <workItem from="1577533002299" duration="4019000" />
       <workItem from="1577588769256" duration="9506000" />
       <workItem from="1577666694559" duration="4960000" />
-      <workItem from="1577721985547" duration="4353000" />
+      <workItem from="1577721985547" duration="6316000" />
+      <workItem from="1578287321741" duration="1399000" />
+      <workItem from="1578292423697" duration="1077000" />
+      <workItem from="1578317408457" duration="2725000" />
     </task>
     <task id="LOCAL-00001" summary="面试题20_表示数值的字符串">
       <created>1577410923124</created>
@@ -335,26 +339,30 @@
     <option name="LAST_COMMIT_MESSAGE" value="面试题20_表示数值的字符串" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1577539876140">
+    <state x="361" y="74" key="#Notifications" timestamp="1578291571766">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1577539876140" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1577786176543">
+    <state x="361" y="74" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1578291571766" />
+    <state x="221" y="155" key="FileChooserDialogImpl" timestamp="1578302823530">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1577786176543" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1577786176543">
+    <state x="221" y="155" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1578302823530" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1578061733603">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1577786176543" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1577786176543">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1578061733603" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1578061733603">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1577786176543" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1577786176543">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1578061733603" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1578061733603">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1577786176543" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1578061733603" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1578061733603">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1578061733603" />
     <state x="194" y="30" width="1272" height="708" key="SettingsEditor" timestamp="1577782606557">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -365,8 +373,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="507" y="143" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.824@0.0.1536.824" timestamp="1577786117210" />
-    <state x="178" y="22" key="new project wizard" timestamp="1577533258577" />
-    <state x="178" y="22" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1577533258577" />
+    <state x="-286" y="0" key="new project wizard" timestamp="1578302592546">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="-286" y="0" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1578302592546" />
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1577592301435">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
