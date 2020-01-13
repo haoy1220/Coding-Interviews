@@ -13,6 +13,11 @@
   <component name="CompilerWorkspaceConfiguration">
     <option name="MAKE_PROJECT_ON_SAVE" value="true" />
   </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
     <option name="GROUP_DATA_SOURCES" value="true" />
@@ -83,7 +88,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../changgou" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -101,8 +106,9 @@
       <recent name="面试题21_调整数组顺序使奇数位于偶数前面" />
       <recent name="面试题20_表示数值的字符串" />
     </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\IdeaProjects\Coding-Interviews\src\main\resources" />
+      <recent name="E:\IdeaProjects\Coding-Interviews\src\main\java\排序算法" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\IdeaProjects\Coding-Interviews\src\main\resources" />
@@ -110,9 +116,9 @@
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\IdeaProjects\Coding-Interviews\src\main\resources" />
-      <recent name="E:\IdeaProjects\Coding-Interviews\src\main\java\排序算法" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="数据结构" />
+      <recent name="" />
     </key>
   </component>
   <component name="RunManager" selected="JUnit.Solution3Test.printFromTopToBottom">
@@ -283,7 +289,11 @@
       <workItem from="1577721985547" duration="6316000" />
       <workItem from="1578287321741" duration="1399000" />
       <workItem from="1578292423697" duration="1077000" />
-      <workItem from="1578317408457" duration="2725000" />
+      <workItem from="1578317408457" duration="2901000" />
+      <workItem from="1578472590106" duration="5060000" />
+      <workItem from="1578580309451" duration="17000" />
+      <workItem from="1578806440264" duration="2018000" />
+      <workItem from="1578902509766" duration="2390000" />
     </task>
     <task id="LOCAL-00001" summary="面试题20_表示数值的字符串">
       <created>1577410923124</created>
@@ -343,10 +353,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="361" y="74" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1578291571766" />
-    <state x="221" y="155" key="FileChooserDialogImpl" timestamp="1578302823530">
+    <state x="499" y="193" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1578806629169">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="221" y="155" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1578302823530" />
+    <state x="499" y="193" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1578806629169" />
+    <state x="221" y="155" key="FileChooserDialogImpl" timestamp="1578580323539">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="221" y="155" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1578580323539" />
     <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1578061733603">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -373,10 +387,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="507" y="143" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.824@0.0.1536.824" timestamp="1577786117210" />
-    <state x="-286" y="0" key="new project wizard" timestamp="1578302592546">
+    <state x="178" y="117" key="new project wizard" timestamp="1578320312567">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="-286" y="0" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1578302592546" />
+    <state x="178" y="117" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1578320312567" />
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1577592301435">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

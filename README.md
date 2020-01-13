@@ -95,3 +95,7 @@
 [面试题32_从上到下打印二叉树](./src/main/java/面试题32_从上到下打印二叉树/Solution.java)
 
 [面试题33_二叉树搜索树的后序遍历序列](./src/main/java/面试题33_二叉树搜索树的后序遍历序列/Solution.java)
+
+[面试题34_二叉树中和为某一值的路径](./src/main/java/面试题34_二叉树中和为某一值的路径/Solution.java)
+
+[面试题35_复杂链表的复制](./src/main/java/面试题35_复杂链表的复制/Solution.java)
