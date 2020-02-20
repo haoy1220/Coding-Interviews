@@ -99,3 +99,7 @@
 [面试题34_二叉树中和为某一值的路径](./src/main/java/面试题34_二叉树中和为某一值的路径/Solution.java)
 
 [面试题35_复杂链表的复制](./src/main/java/面试题35_复杂链表的复制/Solution.java)
+
+[面试题36_二叉搜索树和双向链表](./src/main/java/面试题36_二叉搜索树和双向链表/Solution.java)
+
+[面试题37_序列化二叉树](./src/main/java/面试题37_序列化二叉树/Solution.java)
