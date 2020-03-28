@@ -11,9 +11,9 @@ import static org.junit.Assert.*;
 public class SolutionTest {
 
     @Test
-    public void bublleSort() {
+    public void bubbleSort() {
         int[] arrays = {2, 42, 34, 46, 453, 6};
-        new Solution().bublleSort(arrays);
+        new Solution().bubbleSort(arrays);
         for (int i :
                 arrays) {
             System.out.println(i);

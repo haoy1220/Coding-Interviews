@@ -11,7 +11,7 @@ package 排序算法.冒泡排序;
  * 因为俩俩交换，需要n-1趟排序，比如10个元素，需要9趟排序。
  */
 public class Solution {
-    public void bublleSort(int[] nums) {
+    public void bubbleSort(int[] nums) {
         //排序n-1趟
         for (int i = 0; i < nums.length - 1; i++) {
 
@@ -33,7 +33,7 @@ public class Solution {
  * 考虑到可能提前排好，使用一个标记记录是否发生交换。
  */
 class Solution2 {
-    public void bublleSort(int[] nums) {
+    public void bubbleSort(int[] nums) {
         //排序n-1趟
         for (int i = 0; i < nums.length - 1; i++) {
 

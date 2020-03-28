@@ -48,7 +48,7 @@ public class Solution {
 
 /*
  * 思路
- * 因为数组元素在0n-1
+ * 因为数组元素在0~n-1，使用数组来按位进行排序
  */
 class Solution2 {
     public boolean duplicate(int numbers[], int length, int[] duplication) {
