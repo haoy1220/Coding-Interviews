@@ -6,6 +6,7 @@ import 数据结构.TreeNode;
 import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.Queue;
+import java.util.Stack;
 
 /**
  * 题目描述
@@ -78,36 +79,39 @@ class Solution3 {
     public void PrintFromTopToBottom(TreeNode root) {
         if (root == null) return;
 
-        Queue<TreeNode> queue = new LinkedList<TreeNode>();
-        queue.add(root);
+        Stack<TreeNode> stack = new Stack<TreeNode>();
+        Stack<TreeNode> nextStack = new Stack<TreeNode>();
+        stack.push(root);
         int toBePrint = 1;
         int nextPoint = 0;
         boolean turn = true;
-        while (!queue.isEmpty()) {
-            TreeNode temp = queue.poll();
+        while (!stack.isEmpty()) {
+            TreeNode temp = stack.pop();
             System.out.print(temp.val + " ");
-            if (turn) {
+            if (!turn) {
                 if (temp.right != null) {
-                    queue.add(temp.right);
+                    nextStack.push(temp.right);
                     nextPoint++;
                 }
                 if (temp.left != null) {
-                    queue.add(temp.left);
+                    nextStack.push(temp.left);
                     nextPoint++;
                 }
             } else {
                 if (temp.left != null) {
-                    queue.add(temp.left);
+                    nextStack.push(temp.left);
                     nextPoint++;
                 }
                 if (temp.right != null) {
-                    queue.add(temp.right);
+                    nextStack.push(temp.right);
                     nextPoint++;
                 }
             }
             toBePrint--;
             if (toBePrint == 0) {
                 System.out.println();
+                stack = nextStack;
+                nextStack = new Stack<TreeNode>();
                 turn = !turn;
                 toBePrint = nextPoint;
                 nextPoint = 0;
