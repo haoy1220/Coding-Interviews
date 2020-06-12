@@ -103,3 +103,9 @@
 [面试题36_二叉搜索树和双向链表](./src/main/java/面试题36_二叉搜索树和双向链表/Solution.java)
 
 [面试题37_序列化二叉树](./src/main/java/面试题37_序列化二叉树/Solution.java)
+
+[面试题38_字符串的排列](./src/main/java/面试题38_字符串的排列/Solution.java)
+
+[面试题39_数组中出现次数超过一半的数字](./src/main/java/面试题39_数组中出现次数超过一半的数字/Solution.java)
+
+[面试题40_最小的k个数](./src/main/java/面试题40_最小的k个数/Solution.java)
